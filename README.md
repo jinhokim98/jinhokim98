@@ -4,7 +4,7 @@
 
 <br>
 <div>
-    <h3>✨let me introduce myself✨</h3>
+    <h2>✨let me introduce myself✨</h2>
 </div>
 
 <br>

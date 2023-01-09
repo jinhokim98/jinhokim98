@@ -10,20 +10,20 @@
 <br>
 
 <ol>
-    <li><strong>🧑‍🎓Degree:</strong> Hongik Univ. business administration and double major in Computer Science</li>
+    <li><strong>🧑‍🎓Degree:</strong> Hongik Univ. Business Administration and double major in Computer Science</li>
     <li><strong>✍️GPA:</strong> 4.31</li>
     <li><strong>🏃‍♂️On-Campus Activities:</strong> </li>
     <ol>
         <li><strong>Club president</strong> of Hongik Computer Club (HICC) during 2022</li>
         <li><strong>Head of academic department</strong> in HICC during 2023 spring semester</li>
     </ol>
+    <li><strong>🎯Goal:</strong> Web front-end developer</li>
+    <li><strong>☝️Values:</strong></li>
+    <ol>
+        <li><strong>Work hard</strong> while you work, <strong>play hard</strong> while you play.</li>
+        <li><strong>Make every effort</strong> to do my part.</li>
+    </ol>
 </ol>
-
-
-<br>
-<div align=center>
-    <h3>📚 Tech Stack 📚</h3>
-</div>
 
 <div align=center>        
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />

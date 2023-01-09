@@ -3,38 +3,53 @@
 </div>
 
 <br>
+<div>
+    <h3>✨let me introduce myself✨</h3>
+</div>
 
+<br>
+
+<ol>
+    <li><strong>🧑‍🎓Degree:</strong> Hongik Univ. business administration and double major in Computer Science</li>
+    <li><strong>✍️GPA:</strong> 4.31</li>
+    <li><strong>🏃‍♂️On-Campus Activities:</strong> </li>
+    <ol>
+        <li><strong>Club president</strong> of Hongik Computer Club (HICC) during 2022</li>
+        <li><strong>Head of academic department</strong> in HICC during 2023 spring semester</li>
+    </ol>
+</ol>
+
+
+<br>
 <div align=center>
     <h3>📚 Tech Stack 📚</h3>
 </div>
 
 <div align=center>        
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
-	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white" />
-	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-	<br>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />	
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+    <br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />    
 </div>
 
 <br>
 
 <div align=center>
-    <h3>✍️ 현재 공부하고 있는 것들 ✍️</h3>
+    <h3>✍️ I'm focusing on~ ✍️</h3>
 </div>
 
 <div align=center>
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white" />
 </div>
-
 
 <br>
 

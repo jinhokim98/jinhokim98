@@ -16,6 +16,7 @@
     <ol>
         <li><strong>Club president</strong> of Hongik Computer Club (HICC) during 2022</li>
         <li><strong>Head of Study dept.</strong> in HICC during 2023 spring semester</li>
+        <li><strong>11th baby lion</strong> of likelion univ. hongik during 2023</li>
     </ol>
     <li><strong>🎯Goal:</strong> Web front-end developer</li>
     <li><strong>☝️Values:</strong></li>

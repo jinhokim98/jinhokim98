@@ -72,9 +72,3 @@
 
 <br>
 
-<div align=center>
-    <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhokim98&layout=compact">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jinhokim98&show_icons=true">
-</div>

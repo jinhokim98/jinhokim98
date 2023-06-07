@@ -18,7 +18,7 @@
         <li><strong>Head of Study dept.</strong> in HICC during 2023 spring semester</li>
         <li><strong>11th baby lion</strong> of likelion univ. hongik during 2023</li>
     </ol>
-    <li><strong>🎯Goal:</strong> Web front-end developer</li>
+    <li><strong>🎯Goal:</strong> Front-end developer</li>
     <li><strong>☝️Values:</strong></li>
     <ol>
         <li><strong>Work hard</strong> while you work, <strong>play hard</strong> while you play.</li>

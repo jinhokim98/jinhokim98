@@ -10,19 +10,19 @@
 <br>
 
 <ol>
-    <li><strong>🧑‍🎓Degree:</strong> Hongik Univ. Business Administration and double major in Computer Science</li>
-    <li><strong>✍️GPA:</strong> 4.31</li>
-    <li><strong>🏃‍♂️On-Campus Activities:</strong> </li>
+    <li><strong>🧑‍🎓학력: </strong> 홍익대학교 경영학과, 컴퓨터공학과 복수전공 중</li>
+    <li><strong>✍️학점: </strong> 4.31</li>
+    <li><strong>🏃‍♂️학교 활동: </strong> </li>
     <ol>
-        <li><strong>Club president</strong> of Hongik Computer Club (HICC) during 2022</li>
-        <li><strong>Head of Study dept.</strong> in HICC during 2023 spring semester</li>
-        <li><strong>11th baby lion</strong> of likelion univ. hongik during 2023</li>
+        <li>2022년 52기 HICC (Hong Ik Computer Club)<strong>회장</strong></li>
+        <li>2023년 53기 HICC <strong>학술부장</strong> 2023</li>
+        <li>2023년 멋쟁이 사자처럼 11기 아기사자</li>
     </ol>
-    <li><strong>🎯Goal:</strong> Front-end developer</li>
-    <li><strong>☝️Values:</strong></li>
+    <li><strong>🎯목표: </strong>프론트엔드 개발자</li>
+    <li><strong>☝️가치관: </strong></li>
     <ol>
-        <li><strong>Work hard</strong> while you work, <strong>play hard</strong> while you play.</li>
-        <li><strong>Make every effort</strong> to do my part.</li>
+        <li>할 때 제대로 하고 놀 때 제대로 놀자</li>
+        <li>모든 순간, 맡은 일에 최선을 다하자</li>
     </ol>
 </ol>
 
@@ -44,8 +44,10 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
     <br>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />    
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
 </div>
 
 <br>
@@ -55,9 +57,6 @@
 </div>
 
 <div align=center>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 </div>
 

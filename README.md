@@ -11,11 +11,11 @@
 
 <ol>
     <li><strong>🧑‍🎓학력: </strong> 홍익대학교 경영학과, 컴퓨터공학과 복수전공 중</li>
-    <li><strong>✍️학점: </strong> 4.31</li>
+    <li><strong>✍️학점: </strong> 4.29</li>
     <li><strong>🏃‍♂️학교 활동: </strong> </li>
     <ol>
-        <li>2022년 52기 HICC (Hong Ik Computer Club)<strong>회장</strong></li>
-        <li>2023년 53기 HICC <strong>학술부장</strong> 2023</li>
+        <li>2022년 51기 HICC (Hong Ik Computer Club)<strong>회장</strong></li>
+        <li>2023년 52기 HICC <strong>학술부장</strong> 2023</li>
         <li>2023년 멋쟁이 사자처럼 11기 아기사자</li>
     </ol>
     <li><strong>🎯목표: </strong>프론트엔드 개발자</li>

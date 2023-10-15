@@ -24,6 +24,8 @@
 
 <br />
 
+### 아래 링크는 제가 HICC 활동을 하면서 진행한 세미나의 녹화본 링크입니다.
+
 <a href="https://www.youtube.com/playlist?list=PLTIdb_bLuMLrb34Zme9W334oj1zBLh8Hx">HICC C 세미나 녹화</a>
 <br />
 <a href="https://www.youtube.com/playlist?list=PLTIdb_bLuMLo2bLV3nahunsR3DUIOpopy">HICC Web 세미나 녹화</a>

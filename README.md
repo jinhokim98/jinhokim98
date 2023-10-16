@@ -29,6 +29,10 @@
 <a href="https://www.youtube.com/playlist?list=PLTIdb_bLuMLrb34Zme9W334oj1zBLh8Hx">HICC C 세미나 녹화</a>
 <br />
 <a href="https://www.youtube.com/playlist?list=PLTIdb_bLuMLo2bLV3nahunsR3DUIOpopy">HICC Web 세미나 녹화</a>
+<br />
+<a href="https://www.youtube.com/playlist?list=PLTIdb_bLuMLpHmA6YlG-wec-2tJq9FjcC">HICC Django 세미나 녹화</a>
+<br />
+<a href="https://www.youtube.com/playlist?list=PLTIdb_bLuMLoiWqjRmLfZ5FxBrMvb6h-Q">HICC JS 세미나 녹화</a>
 
 ## 2. 학교 활동
 

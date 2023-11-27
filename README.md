@@ -85,3 +85,5 @@ Design
 email: rlawlsgh1227@gmail.com
 
 instagram: [jinokim98](https://www.instagram.com/jinokim98/)
+
+blog: [jinokim의 개발일지](https://jinokim.tistory.com/)

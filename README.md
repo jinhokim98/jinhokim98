@@ -27,6 +27,7 @@
 ### 제 인생이 더 궁금하신 분들은
 [hongik devtalk 연사](https://youtu.be/T_xEyi7U5As?si=Qv5ISW-0_V0PMHdz)
 
+<br />
 
 ### 아래 링크는 제가 HICC 활동을 하면서 진행한 세미나의 녹화본 링크입니다.
 

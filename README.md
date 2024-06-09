@@ -69,21 +69,22 @@ Design
     <ul>
         <li>기간: 2022.03 ~ 2023.08</li>
         <li>역할: 강사</li>
-        <li><img src="https://github.com/jinhokim98/jinhokim98/assets/81083461/92d2a0ca-83e4-4477-bdae-33bac3af2912" width="200px" /></li>
-        <li><a href="https://likelion.university" target="_blank_">site</a></li>
-        <li><a href="https://likelion.university/about" target="_blank_">제작자들</a></li>
+        <li><img src="https://github.com/jinhokim98/jinhokim98/assets/81083461/0d9b511c-3e73-4fb6-b59c-98042de9d992" /></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLTIdb_bLuMLrb34Zme9W334oj1zBLh8Hx">HICC C 세미나 녹화</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLTIdb_bLuMLo2bLV3nahunsR3DUIOpopy">HICC Web 세미나 녹화</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLTIdb_bLuMLpHmA6YlG-wec-2tJq9FjcC">HICC Django 세미나 녹화</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLTIdb_bLuMLoiWqjRmLfZ5FxBrMvb6h-Q">HICC JS 세미나 녹화</a></li>
     </ul>
     <div>
-        멋쟁이사자처럼 연합동아리에서 사용하는 홈페이지로 멋사 본사와 제휴를 맺어서 진행한 프로젝트입니다.
-        저는 프론트엔드 파트장을 맡아 10명 정도의 프론트엔드 팀원들을 이끌었습니다.
-        대규모 인원이 참여한 상황에서 어떻게 팀원을 다독이고 이끌어야 하는지에 대해서 많이 배우고 겪게 된 프로젝트였습니다.
-        특히 아무도 맡지 않은 도메인을 누구에게 적절히 분배할 것인가에 대해서 생각을 많이 얻어갔습니다.
+        홍익대학교 중앙동아리 HICC에서 진행했던 세미나입니다.
+        주로 초심자를 대상으로 강의를 진행했습니다. 제가 배우고 경험한 것들을 토대로 강의자료를 직접 만들고 학생들에게 공유하는 경험을 해왔습니다.
+        이를 토대로 앞에 나와서 강의할 때 어떻게 준비하고 어떤 포인트를 집중해서 가르쳐야 하는지에 대한 경험을 얻을 수 있게 되었습니다.
     </div>
 </details>
 
 
 <details>
-    <summary>1. 2023 홍익 대동제 안내 사이트</summary>
+    <summary>2. 2023 홍익 대동제 안내 사이트</summary>
     <ul>
         <li>기간: 2023.08 ~ 2023.09</li>
         <li>역할: FE, 랜딩페이지 </li>
@@ -99,7 +100,7 @@ Design
 </details>
 
 <details>
-    <summary>2. 멋쟁이사자처럼 대학 공식 홈페이지</summary>
+    <summary>3. 멋쟁이사자처럼 대학 공식 홈페이지</summary>
     <ul>
         <li>기간: 2023.09 ~ 2024.03</li>
         <li>역할: FE lead, 프로젝트 도메인</li>
@@ -116,7 +117,7 @@ Design
 </details>
 
 <details>
-    <summary>3. HICC 공식 홈페이지</summary>
+    <summary>4. HICC 공식 홈페이지</summary>
     <ul>
         <li>기간: 2023.12 ~ 2024.02</li>
         <li>역할: FE lead</li>
@@ -132,7 +133,7 @@ Design
 </details>
 
 <details>
-    <summary>4. 크루위키</summary>
+    <summary>5. 크루위키</summary>
     <ul>
         <li>기간: 2024.03 ~ 2024.06 (진행 중)</li>
         <li>역할: FE lead</li>

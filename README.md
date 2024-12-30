@@ -60,9 +60,10 @@ Frontend
 - Javascript
 - Typescript
 - React
-- Redux toolkit, Recoil
-- React Query
-- Vite
+- Redux toolkit, Recoil, Zustand
+- TanStack-Query
+- Vite, Webpack
+- Styled-components, Emotion
 
 Backend
 

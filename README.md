@@ -60,10 +60,11 @@ Frontend
 - Javascript
 - Typescript
 - React
-- Redux toolkit, Recoil, Zustand
+- Next.js
+- Recoil, Zustand
 - TanStack-Query
 - Vite, Webpack
-- Styled-components, Emotion
+- Emotion, Styled-components, Tailwind CSS
 
 Backend
 

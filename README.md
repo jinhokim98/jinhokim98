@@ -78,7 +78,7 @@ Design
 <br />
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=rlawlsgh1227)](https://solved.ac/rlawlsgh1227)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlsgh1227)](https://solved.ac/rlawlsgh1227)
 
 <br />
 
